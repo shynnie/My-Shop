@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "834921634258",
+    "firebase_url": "https://myshop-c1a6f.firebaseio.com",
+    "project_id": "myshop-c1a6f",
+    "storage_bucket": "myshop-c1a6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834921634258:android:e0751f67b906742f",
+        "android_client_info": {
+          "package_name": "vn.edu.myshop.myshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834921634258-tsal4s27gma5rl5mk7qhm1i65525vpqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.myshop.myshop",
+            "certificate_hash": "59026cbed0de97450486a17d51ba6c5ccd35d0b9"
+          }
+        },
+        {
+          "client_id": "834921634258-m5mv70jejdu6fu3vqvqdfps1okvue8b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Mrq_fbWevH7gdJyZ7JfK_CogzK31R7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834921634258-m5mv70jejdu6fu3vqvqdfps1okvue8b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

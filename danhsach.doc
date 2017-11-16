@@ -1,0 +1,23 @@
+﻿1. Heroku tạo DB theo cấu trúc đã design
+2. Lên danh sách các API cần iết cho app cần
+	+ Ruby.
+	+ Deplo testing version lên heroku.
+3. Git -> repo cho dự án mình -> add 4 members 
+4. Android Studio -> tạo project -> tiến hành
+	4.1 Tạo frame cho project
+	4.2 Chia task → trello
+	4.3 Dev
+5. Testing : test chéo, bugs → log trello
+6. Tích hợp:
+	6.1 : Tích hợp: admod
+	      Google Anal or Firebase
+	6.2 : Test tích hợp
+7. Deployment
+	+ tạo web server để host API
+	+ tạo DB server để host DBMS
+	+ update → renew → test
+	+ Publising : đăng app lên google play store
+	=> App phải Avalable on store
+8. Final testing: 
+	(User accept test)
+
